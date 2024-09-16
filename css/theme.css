@@ -54,3 +54,47 @@ body *::selection {
     color: var(--text-color) !important;
     background-color: var(--primary-color) !important;
 }
+
+.timeline {
+    position: relative;
+    margin-left: 50px;
+    padding: 20px 0;
+}
+
+.timeline-item {
+    display: flex;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.timeline-marker {
+    position: absolute;
+    left: -25px;
+    width: 10px;
+    height: 10px;
+    background-color: #6f42c1;
+    border-radius: 50%;
+    top: 20px;
+}
+
+.timeline-content {
+    margin-left: 50px;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.timeline-content .card {
+    border: none;
+}
+
+.timeline:before {
+    content: "";
+    position: absolute;
+    left: -20px;
+    width: 2px;
+    background-color: #6f42c1;
+    top: 0;
+    bottom: 0;
+}
