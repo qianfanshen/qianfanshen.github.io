@@ -88,7 +88,7 @@ work:
     company_name: Visual Computing and Learning Lab (VCL)
     company_url: 'https://vcl.pku.edu.cn/'
     company_logo: ''
-    date_start: 2024-05
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
       I am currently working as a research intern at Visual Computing and Learning Lab (VCL) in Beijing, CN. I am intersted in computer graphics and 3D computer vision.
@@ -96,8 +96,8 @@ work:
     company_name: DXC Technology
     company_url: 'https://dxc.com/us/en'
     company_logo: ''
-    date_start: 2024-07
-    date_end: 2024-10
+    date_start: 2024-07-28
+    date_end: 2024-10-31
     summary: |
       I worked as a software developing intern at [DXC Technology](https://dxc.com/us/en) in Shanghai, CN. I worked on a project developing a compliance system for a pharmaceutical company."
 
