@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qianfan Shen | 沈千帆
+title: Qianfan Shen
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -87,7 +87,7 @@ work:
   - position: Research Intern
     company_name: Visual Computing and Learning Lab (VCL)
     company_url: 'https://vcl.pku.edu.cn/'
-    company_logo: ''
+    company_logo: 'DXC'
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
@@ -125,15 +125,15 @@ skills:
       - name: Tennis
         description: ''
         percent: 90
-        icon: 🎾
+        icon: "custom/tennis"
       - name: Swim
         description: ''
         percent: 90
-        icon: 🏊
+        icon: "custom/swim"
       - name: Sea
         description: ''
         percent: 100
-        icon: 🌊
+        icon: "custom/water"
 
 languages:
   - name: English
