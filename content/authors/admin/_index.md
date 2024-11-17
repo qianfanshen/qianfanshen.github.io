@@ -75,7 +75,7 @@ education:
   - area: BSc Computer Science and Technology
     institution: Peking University
     date_start: 2022-09-01
-    date_end: Present
+    date_end: ''
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -87,7 +87,7 @@ work:
   - position: Research Intern
     company_name: Visual Computing and Learning Lab (VCL)
     company_url: 'https://vcl.pku.edu.cn/'
-    company_logo: 'vcl'
+    company_logo: ''
     date_start: 2024-05
     date_end: ''
     summary: |2-
@@ -95,7 +95,7 @@ work:
   - position: Software Engineer Intern
     company_name: DXC Technology
     company_url: 'https://dxc.com/us/en'
-    company_logo: 'DXC'
+    company_logo: ''
     date_start: 2024-07
     date_end: 2024-10
     summary: |
@@ -179,4 +179,4 @@ awards:
 
 I’m a third year undergraduate student from School of EECS, Peking University.
 
-I’m working as an intern student at the Visual Computing and Learning Lab (VCL), advised by Professor Wenzheng Chen. My research interests focus on high-quality geometry reconstruction and advanced image synthesis of 3D/4D scenes.
+I’m working as an intern student at the Visual Computing and Learning Lab (VCL), advised by Professor Wenzheng Chen.
