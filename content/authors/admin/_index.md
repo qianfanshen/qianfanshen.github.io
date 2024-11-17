@@ -91,7 +91,7 @@ work:
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
-      I am currently working as a research intern at Visual Computing and Learning Lab (VCL) in Beijing, CN. I am intersted in computer graphics and 3D computer vision.
+      I am currently working as a research intern at [Visual Computing and Learning Lab (VCL)]('https://vcl.pku.edu.cn/) in Beijing, CN. I am intersted in computer graphics and 3D computer vision.
   - position: Software Engineer Intern
     company_name: DXC Technology
     company_url: 'https://dxc.com/us/en'
@@ -99,7 +99,7 @@ work:
     date_start: 2024-07-28
     date_end: 2024-10-31
     summary: |
-      I worked as a software developing intern at [DXC Technology](https://dxc.com/us/en) in Shanghai, CN. I worked on a project developing a compliance system for a pharmaceutical company."
+      I worked as a software developing intern at [DXC Technology](https://dxc.com/us/en) in Shanghai, CN. I worked on a project developing a compliance system for a pharmaceutical company.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -125,15 +125,15 @@ skills:
       - name: Tennis
         description: ''
         percent: 90
-        icon: tennis
+        icon: 🎾
       - name: Swim
         description: ''
         percent: 90
-        icon: swim
+        icon: 🏊
       - name: Sea
         description: ''
         percent: 100
-        icon: water
+        icon: 🌊
 
 languages:
   - name: English
