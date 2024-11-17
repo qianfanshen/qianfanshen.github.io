@@ -87,7 +87,7 @@ work:
   - position: Research Intern
     company_name: Visual Computing and Learning Lab (VCL)
     company_url: 'https://vcl.pku.edu.cn/'
-    company_logo: 'DXC'
+    company_logo: ''
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
