@@ -125,7 +125,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 90
-        icon: "custom/tennis-ball"
+        icon: "custom/medal-solid"
       - name: Swim
         description: ''
         percent: 90
