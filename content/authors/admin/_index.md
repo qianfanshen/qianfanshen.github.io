@@ -87,7 +87,7 @@ work:
   - position: Research Intern
     company_name: Visual Computing and Learning Lab (VCL)
     company_url: 'https://vcl.pku.edu.cn/'
-    company_logo: ''
+    company_logo: 'DXC.png'
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
@@ -95,7 +95,7 @@ work:
   - position: Software Engineer Intern
     company_name: DXC Technology
     company_url: 'https://dxc.com/us/en'
-    company_logo: ''
+    company_logo: 'vcl.png'
     date_start: 2024-07-28
     date_end: 2024-10-31
     summary: |
@@ -125,7 +125,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 90
-        icon: "custom/tennis"
+        icon: "custom/tennis-ball"
       - name: Swim
         description: ''
         percent: 90
@@ -177,6 +177,6 @@ languages:
 
 ## About Me
 
-I’m a third year undergraduate student from School of EECS, Peking University.
+I’m a third year undergraduate student from School of [EECS, Peking University](https://eecs.pku.edu.cn/en/).
 
-I’m working as an intern student at the Visual Computing and Learning Lab (VCL), advised by Professor Wenzheng Chen.
+Currently, I’m working as an intern student at the [Visual Computing and Learning Lab (VCL)](https://vcl.pku.edu.cn/), advised by Professor (Wenzheng Chen)[https://wenzhengchen.github.io/].
