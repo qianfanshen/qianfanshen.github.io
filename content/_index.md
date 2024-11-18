@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        In general, I am interested in 3D computer vision and computer graphics. More specifically, i am passionate about high-quality geometry reconstruction and advanced image synthesis of 3D/4D scenes.
+        In general, my interests lie in 3D computer vision and computer graphics. More specifically, I'm passionate about the high-quality reconstruction and advanced synthesis of 3D/4D scenes to enhance our perception of the world.
     design:
       columns: '1'
   # - block: collection
