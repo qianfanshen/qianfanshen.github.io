@@ -177,6 +177,6 @@ languages:
 
 ## About Me
 
-I’m a third year undergraduate student from School of [EECS, Peking University](https://eecs.pku.edu.cn/en/).
+I’m a third year undergraduate student from [School of EECS, Peking University](https://eecs.pku.edu.cn/en/).
 
 Currently, I’m working as an intern student at the [Visual Computing and Learning Lab (VCL)](https://vcl.pku.edu.cn/), advised by Professor [Wenzheng Chen](https://wenzhengchen.github.io/).
