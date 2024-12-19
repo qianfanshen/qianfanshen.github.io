@@ -1,5 +1,5 @@
 ---
-title: 🎉 I am honored to receive the **Shenzhen Stock Exchange Scholarship** and to be recognized as **Merit Student**.
+title: 🎉🎉🎉 I am honored to receive the Shenzhen Stock Exchange Scholarship and to be recognized as Merit Student.
 summary: 
 date: 2024-11-15
 
@@ -13,9 +13,9 @@ authors:
   # - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  # - Academic
+  # - Hugo Blox
+  # - Markdown
 ---
 
 <!-- Welcome 👋
