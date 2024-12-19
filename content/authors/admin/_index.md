@@ -150,26 +150,26 @@ languages:
 awards:
   - title: Shenzhen Stock Exchange Scholarship
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-11-'
+    date: '2024-11-00'
     awarder: Peking University
   #   icon: coursera
   #   summary: |
   #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Merit Student
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-11-'
+    date: '2024-11-00'
     awarder: Peking University
   - title: Lee Wai Wing Scholarship
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-12-'
+    date: '2023-12-00'
     awarder: Peking University
   - title: Award of Academic Excellents
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-12-'
+    date: '2023-12-00'
     awarder: Peking University
   - title: First Place Nationally of The 2nd KPMG ESG Case Analysis Competition
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-'
+    date: '2023-11-00'
     awarder: KPMG, Renmin University of China
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
