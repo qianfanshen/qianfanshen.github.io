@@ -53,7 +53,7 @@ sections:
     content:
       title: Recent Publications (Upcoming soon...)
       text: ""
-      count: 1
+      # count: 1
       filters:
         folders:
           - publication

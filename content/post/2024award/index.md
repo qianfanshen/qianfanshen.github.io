@@ -13,7 +13,7 @@ authors:
   # - Ted
 
 tags:
-  # - Academic
+  - Academic
   # - Hugo Blox
   # - Markdown
 ---
