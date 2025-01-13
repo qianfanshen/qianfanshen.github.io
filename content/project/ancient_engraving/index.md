@@ -1,7 +1,7 @@
 ---
 title: The Visualization of the Twenty-Four Histories' Publishing and Collection
 date: 2025-01-13
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/qianfanshen/Vis_Ancient_Engraving
 tags:
   - Visualization
 ---
