@@ -58,8 +58,8 @@ sections:
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+      #   padding: [0, 0, 0, 0]
 
   - block: markdown
     content:
@@ -82,7 +82,7 @@ sections:
   #     columns: 2
   - block: collection
     content:
-      title: Recent Publications (Upcoming soon...)
+      title: Publications (Upcoming soon...)
       text: ""
       # count: 1
       filters:
@@ -91,6 +91,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: [0, 0, 0, 0]
   # - block: collection
   #   id: talks
   #   content:
