@@ -19,6 +19,7 @@ LABEL authors="Amir Pourmand,George Araújo" \
 # RUN groupadd -r $GROUPNAME -g $GROUPID && \
 #     useradd -u $USERID -m -g $GROUPNAME $USERNAME
 
+
 # install system dependencies
 RUN apt-get update -y && \
     apt-get install -y --no-install-recommends \

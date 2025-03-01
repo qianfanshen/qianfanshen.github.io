@@ -277,6 +277,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  nokogiri (~> 1.18.3)
   observer
   ostruct
   terser

@@ -1,6 +1,21 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"dai":
+  - firstname: ["Qiyu"]
+    url: https://daiqy.github.io/
+
+"ni":
+  - firstname: ["Xingyu"]
+    url: https://univstar.github.io/
+
+"chen":
+  - firstname: ["Wenzheng"]
+    url: https://wenzhengchen.github.io/
+  - firstname: ["Baoquan"]
+    url: https://baoquanchen.info/
+
+"chu":
+  - firstname: ["Mengyu"]
+    url: https://rachelcmy.github.io/
+
 
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
