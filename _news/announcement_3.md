@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats! Our paper has been accepted to CVPR 2025! :dizzy: :sparkles:
+Congrats! Our paper has been accepted to CVPR 2025 ! :dizzy: :sparkles:

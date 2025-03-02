@@ -26,7 +26,7 @@ announcements:
 
 I’m a junior undergraduate student from [School of EECS, Peking University](https://eecs.pku.edu.cn/en/).
 
-Currently, I’m working as an intern student at the [Visual Computing and Learning Lab (VCL)](https://vcl.pku.edu.cn/), advised by Professor [Wenzheng Chen](https://wenzhengchen.github.io/) and Professor [Baoquan Chen](https://baoquanchen.info/).
+Currently, I’m working as an research intern at the [Visual Computing and Learning Lab (VCL)](https://vcl.pku.edu.cn/), advised by Professor [Wenzheng Chen](https://wenzhengchen.github.io/) and Professor [Baoquan Chen](https://baoquanchen.info/).
 
 In general, my interests lie in 3D computer vision and computer graphics. More specifically, I'm passionate about the high-quality reconstruction, photorealistic simulation and neural representation, enabling people to better perceive and interact with the world.
 
