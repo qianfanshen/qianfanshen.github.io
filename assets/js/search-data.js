@@ -389,7 +389,7 @@ ninja.data = [{
           title: 'I am honored to be recognized as Merit Student. :smile:',
           description: "",
           section: "News",},{id: "news-congrats-our-paper-has-been-accepted-to-cvpr-2025-dizzy-sparkles",
-          title: 'Congrats! Our paper has been accepted to CVPR 2025! :dizzy: :sparkles:',
+          title: 'Congrats! Our paper has been accepted to CVPR 2025 ! :dizzy: :sparkles:',
           description: "",
           section: "News",},{id: "projects-the-visualization-of-the-twenty-four-histories-39-publishing-and-collection",
           title: 'The Visualization of the Twenty-Four Histories&amp;#39; Publishing and Collection',
