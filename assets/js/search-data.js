@@ -387,7 +387,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-an-integrated-geometric-processing-demo",
           title: 'An Integrated Geometric Processing Demo',
-          description: "four classical geometry processing algorithms",
+          description: "Four classical geometry processing algorithms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
