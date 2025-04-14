@@ -322,6 +322,7 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    # wechat,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
@@ -444,6 +445,7 @@ third_party_libraries:
   google_fonts:
     url:
       fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap"
   highlightjs:
     integrity:
       css:
