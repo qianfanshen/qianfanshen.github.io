@@ -23,6 +23,13 @@
                     </td>
                   </tr>
                 {% endif %}
+                {% if content.logo %}
+                <tr>
+                  <td style="text-align: center;">
+                  <img src="{{ content.logo }}" alt="logo" style="display: block; margin: 5px auto; max-width: 50px;" />
+                  </td>
+                </tr>
+                {% endif %}
               </tbody>
             </table>
           </div>

@@ -12,29 +12,32 @@
   type: time_table
   contents:
     - title: Bachelor
+      logo: ../assets/img/pku.png
       institution: Peking University
       department: School of Electrical Engineering and Computer Science (EECS)
-      location: Beijing, China
+      location: Beijing
       year: 2026
       maindescription: Major in Computer Science and Technology
     - title: High School
       institution: Shanghai High School
-      location: Shanghai, China
+      location: Shanghai
       year: 2022
 
 - title: Work Experience
   type: time_table
   contents:
     - title: Research Intern
+      logo: ../assets/img/vcl.png
       institution: Peking University
       department: Visual Computing and Learning Lab (VCL)
       year: 2024 - Now
-      location: Beijing, China
+      location: Beijing
       maindescription: Working on Computer Graphics and 3D Vision
     - title: Software Engineer Intern
+      logo: ../assets/img/DXC.png
       institution: DXC Technology
       year: 2024
-      location: Shanghai, China
+      location: Shanghai
       maindescription: Worked on a project developing a compliance system for a pharmaceutical company.
 
 - title: Honors and Awards
