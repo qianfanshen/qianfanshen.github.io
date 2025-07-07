@@ -27,6 +27,14 @@
   type: time_table
   contents:
     - title: Research Intern
+      logo: ../assets/img/UIUC.png
+      institution: University of Illinois Urbana-Champaign (UIUC)
+      department: Siebel School of Computing and Data Science
+      mentor: Shenlong Wang
+      year: 2025 - Now
+      location: Urbana, IL
+      maindescription: Working on 3D Vision and simulation, supervised by Shenlong Wang
+    - title: Research Intern
       logo: ../assets/img/vcl.png
       institution: Peking University
       department: Visual Computing and Learning Lab (VCL)
@@ -55,6 +63,11 @@
         - Award of Academic Excellents (TOP10%)
         - Champion of Peking University Freshman Cup Tennis Tournament, I'm the captain! :dizzy:)
         - First Place Nationally of The 2nd KPMG ESG Case Analysis Competition
+
+    - year: 2022
+      items:
+        - Freshman Scholarship (10000RMB)
+        - Champion of Peking University Freshman Cup Tennis Tournament)
 
 - title: Academic Interests
   type: nested_list
