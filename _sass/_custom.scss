@@ -299,6 +299,13 @@ li.active > a {
   font-weight: 700;
 }
 
+.publications .col-sm-10,
+.publications .col-sm-8 {
+  padding-right: 0px;
+  flex: 0 0 88%;
+  max-width: 75%;
+}
+
 .font-weight-heavy {
   font-weight: 800;
 }
