@@ -318,6 +318,21 @@ li.active > a {
   max-width: 75%;
 }
 
+@media (max-width: 767px) {
+  .publications .col-sm-10,
+  .publications .col-sm-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-right: 0;
+  }
+
+  .publications .col-sm-2 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 0.75rem;
+  }
+}
+
 .font-weight-heavy {
   font-weight: 800;
 }
