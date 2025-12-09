@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor
+    - title: Bachelor of Science
       logo: ../assets/img/pku.png
       institution: Peking University
       department: School of Electrical Engineering and Computer Science (EECS)
@@ -51,6 +51,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Third Prize of Peking University Scholarship (4000RMB TOP10% :partying_face:)
+        - Merit Student (TOP10%)
+
     - year: 2024
       items:
         - Shenzhen Stock Exchange Scholarship (5000RMB TOP10% :partying_face:)

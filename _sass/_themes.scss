@@ -42,17 +42,10 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-  #light-toggle-system {
+  #light-toggle-dark,
+  #light-toggle-light {
     padding-left: 10px;
     padding-top: 12px;
-    display: block;
-  }
-
-  #light-toggle-dark {
-    display: none;
-  }
-
-  #light-toggle-light {
     display: none;
   }
 
@@ -122,10 +115,6 @@ html[data-theme="dark"] {
 }
 
 html[data-theme-setting="dark"] {
-  #light-toggle-system {
-    display: none;
-  }
-
   #light-toggle-dark {
     padding-left: 10px;
     padding-top: 12px;
@@ -143,10 +132,6 @@ html[data-theme-setting="dark"] {
 }
 
 html[data-theme-setting="light"] {
-  #light-toggle-system {
-    display: none;
-  }
-
   #light-toggle-dark {
     display: none;
   }
