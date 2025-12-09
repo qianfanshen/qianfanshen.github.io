@@ -1,4 +1,7 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
+// Set a safe default to light before any calculations run.
+document.documentElement.setAttribute("data-theme", "light");
+document.documentElement.setAttribute("data-theme-setting", "light");
 
 // Toggle between light and dark theme settings.
 let toggleThemeSetting = () => {
