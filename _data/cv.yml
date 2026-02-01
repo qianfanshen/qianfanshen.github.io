@@ -26,6 +26,13 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Machine Learning Research Intern
+      logo: ../assets/img/apple.png
+      institution: Apple
+      department: AIML
+      year: 2025 - Now
+      location: Beijing
+      maindescription: Unified representation of Physics Simulation
     - title: Research Intern
       logo: ../assets/img/UIUC.png
       institution: University of Illinois Urbana-Champaign (UIUC)
